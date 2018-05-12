@@ -22,6 +22,8 @@ creator:
 description:
 - 'Includes: The Planet Mars, by Giovanni Schiaparelli.'
 - '"Bradford Torrey Dodd" is a fictitious character.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13289#The-Certainty-of-a-Future-Life-in-Mars--13-Being-the-Posthumous-Papers-of-Bradford-Torrey-Dod_
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
 identifiers:
