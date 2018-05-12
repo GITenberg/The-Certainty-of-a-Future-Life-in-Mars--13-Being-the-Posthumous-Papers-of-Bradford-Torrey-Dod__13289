@@ -1,0 +1,39 @@
+_repo: The-Certainty-of-a-Future-Life-in-Mars--13-Being-the-Posthumous-Papers-of-Bradford-Torrey-Dod__13289
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Schiaparelli, G. V. (Giovanni Virginio)
+    alias: Schiaparelli, Giovanni Virginio
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '2523'
+    url: http://www.gutenberg.org/2009/agents/2523
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Schiaparelli
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gratacap, L. P. (Louis Pope)
+    birthdate: 1851
+    deathdate: 1917
+    gutenberg_agent_id: '4979'
+    url: http://www.gutenberg.org/2009/agents/4979
+description:
+- 'Includes: The Planet Mars, by Giovanni Schiaparelli.'
+- '"Bradford Torrey Dodd" is a fictitious character.'
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13289'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: "The Certainty of a Future Life in Mars\r\nBeing the Posthumous Papers of Bradford\
+  \ Torrey Dodd"
+url: http://www.gutenberg.org/ebooks/13289
